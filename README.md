@@ -1,1 +1,1 @@
-# Exercises-SyS-Isabela-Londono-Castaneda
+# Exercises-python-Isabela-Londono-Castaneda
